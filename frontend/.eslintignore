@@ -1,0 +1,6 @@
+!.eslintrc.js
+dist/
+node_modules
+**/*.css
+**/*.scss
+**/*.svg

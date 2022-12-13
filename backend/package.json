@@ -1,0 +1,12 @@
+{
+  "name": "snc-server",
+  "version": "0.1.0",
+  "description": "Server for squares and circles application",
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "scripts": {
+    "start": "npx json-server --watch ./data/db.json --port 8001"
+  }
+}
